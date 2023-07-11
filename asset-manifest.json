@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/senior-care/static/css/main.410f170c.css",
-    "main.js": "/senior-care/static/js/main.c9e6be15.js",
+    "main.css": "/senior-care/static/css/main.c3e49931.css",
+    "main.js": "/senior-care/static/js/main.c106c226.js",
     "static/js/787.153583f1.chunk.js": "/senior-care/static/js/787.153583f1.chunk.js",
+    "static/media/rightImage.jpg": "/senior-care/static/media/rightImage.ceeef56334bd2ee44c96.jpg",
+    "static/media/old-3.jpeg": "/senior-care/static/media/old-3.b19cec67c8c108b7dbcb.jpeg",
+    "static/media/old-5.jpg": "/senior-care/static/media/old-5.85233c224c4d08710e23.jpg",
+    "static/media/leftImage.jpg": "/senior-care/static/media/leftImage.43aff0fe87581bdbbb38.jpg",
     "static/media/My_project.png": "/senior-care/static/media/My_project.e052603d85b613e6b012.png",
+    "static/media/old-2.jpg": "/senior-care/static/media/old-2.b7b3ab38b8ee696f9a13.jpg",
+    "static/media/old-9.jpg": "/senior-care/static/media/old-9.9abed8f8b9549093df21.jpg",
     "static/media/old_emo-removebg-preview.png": "/senior-care/static/media/old_emo-removebg-preview.a63d31417740244590da.png",
+    "static/media/er.jpg": "/senior-care/static/media/er.d7c34893bae63afc5bc3.jpg",
+    "static/media/old-7.jpeg": "/senior-care/static/media/old-7.c5bfd7e19fef151b7f2d.jpeg",
+    "static/media/old-8.jpg": "/senior-care/static/media/old-8.d87e9feeca8cfd218621.jpg",
+    "static/media/legendary.jpg": "/senior-care/static/media/legendary.8feac55e5f9df514c306.jpg",
     "static/media/background-nav.jpg": "/senior-care/static/media/background-nav.6b586fa090e3cd94df18.jpg",
+    "static/media/old-4.jpg": "/senior-care/static/media/old-4.526b96088e5ff02e23e6.jpg",
+    "static/media/oip3.jpg": "/senior-care/static/media/oip3.7d4554138b055669e189.jpg",
+    "static/media/old-10.jpg": "/senior-care/static/media/old-10.46b79dc34668d5430b77.jpg",
+    "static/media/OIP (1).jpeg": "/senior-care/static/media/OIP (1).9a9140f66427b664dea0.jpeg",
+    "static/media/old-6.jpeg": "/senior-care/static/media/old-6.a6bd200d83c7a15f759f.jpeg",
+    "static/media/OIP.jpeg": "/senior-care/static/media/OIP.f09e011b79bdf1ce3f87.jpeg",
     "static/media/blob-haikei.png": "/senior-care/static/media/blob-haikei.263e9f6935bf62726f91.png",
     "index.html": "/senior-care/index.html",
     "static/media/mission-Back.svg": "/senior-care/static/media/mission-Back.7a6b922781c1bf129438.svg",
-    "main.410f170c.css.map": "/senior-care/static/css/main.410f170c.css.map",
-    "main.c9e6be15.js.map": "/senior-care/static/js/main.c9e6be15.js.map",
+    "main.c3e49931.css.map": "/senior-care/static/css/main.c3e49931.css.map",
+    "main.c106c226.js.map": "/senior-care/static/js/main.c106c226.js.map",
     "787.153583f1.chunk.js.map": "/senior-care/static/js/787.153583f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.410f170c.css",
-    "static/js/main.c9e6be15.js"
+    "static/css/main.c3e49931.css",
+    "static/js/main.c106c226.js"
   ]
 }
