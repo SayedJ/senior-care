@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/senior-care/static/css/main.73e11f33.css",
-    "main.js": "/senior-care/static/js/main.5c898a3d.js",
+    "main.css": "/senior-care/static/css/main.410f170c.css",
+    "main.js": "/senior-care/static/js/main.c9e6be15.js",
     "static/js/787.153583f1.chunk.js": "/senior-care/static/js/787.153583f1.chunk.js",
     "static/media/My_project.png": "/senior-care/static/media/My_project.e052603d85b613e6b012.png",
     "static/media/old_emo-removebg-preview.png": "/senior-care/static/media/old_emo-removebg-preview.a63d31417740244590da.png",
     "static/media/background-nav.jpg": "/senior-care/static/media/background-nav.6b586fa090e3cd94df18.jpg",
     "static/media/blob-haikei.png": "/senior-care/static/media/blob-haikei.263e9f6935bf62726f91.png",
     "index.html": "/senior-care/index.html",
-    "main.73e11f33.css.map": "/senior-care/static/css/main.73e11f33.css.map",
-    "main.5c898a3d.js.map": "/senior-care/static/js/main.5c898a3d.js.map",
+    "static/media/mission-Back.svg": "/senior-care/static/media/mission-Back.7a6b922781c1bf129438.svg",
+    "main.410f170c.css.map": "/senior-care/static/css/main.410f170c.css.map",
+    "main.c9e6be15.js.map": "/senior-care/static/js/main.c9e6be15.js.map",
     "787.153583f1.chunk.js.map": "/senior-care/static/js/787.153583f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73e11f33.css",
-    "static/js/main.5c898a3d.js"
+    "static/css/main.410f170c.css",
+    "static/js/main.c9e6be15.js"
   ]
 }
